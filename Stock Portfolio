@@ -1,0 +1,24 @@
+# Code-Alpha--Task-2-stock-portfolio-Tracker
+### Objective
+Create a program to manage a simple stock portfolio and calculate the total investment value.
+
+### Features
+- User enters stock names and quantities
+- Calculates total portfolio value
+- Displays investment summary
+
+### Concepts Used
+- Dictionary
+- User Input
+- Loops
+- Arithmetic Operations
+- Functions
+  
+- ## Technologies Used
+
+- Python 3.x
+- Python IDLE
+
+## Author
+
+**Keerthi Chittem**
